@@ -1,0 +1,78 @@
+#home
+{
+	background: url('images/nav_home.jpg') no-repeat;
+	width: 47px;
+}
+#faqs
+{
+	background: url('images/nav_faqs.jpg') no-repeat;
+	width: 107px;
+}
+#roster
+{
+	background: url('images/nav_roster.jpg') no-repeat;
+	width: 76px;
+}
+#gallery
+{
+	background: url('images/nav_gallery.jpg') no-repeat;
+	width: 97px;
+}
+#register
+{
+	background: url('images/nav_register.jpg') no-repeat;
+	width: 72px;
+}
+#store
+{
+	background: url('images/nav_store.jpg') no-repeat;
+	width: 70px;
+}
+#about
+{
+	background: url('images/nav_about.jpg') no-repeat;
+	width: 72px;
+}
+#sponsors
+{
+	background: url('images/nav_sponsors.jpg') no-repeat;
+	width: 76px;
+}
+
+
+#home a:hover
+{
+	background: url('images/nav_home_hover.jpg') no-repeat;
+}
+#forums a:hover
+{
+	background: url('images/nav_forums_hover.jpg') no-repeat;
+}
+#about a:hover
+{
+	background: url('images/nav_about_hover.jpg') no-repeat;
+}
+#roster a:hover
+{
+	background: url('images/nav_roster_hover.jpg') no-repeat;
+}
+#gallery a:hover
+{
+	background: url('images/nav_gallery_hover.jpg') no-repeat;
+}
+#register a:hover
+{
+	background: url('images/nav_register_hover.jpg') no-repeat;
+}
+#store a:hover
+{
+	background: url('images/nav_store_hover.jpg') no-repeat;
+}
+#faqs a:hover
+{
+	background: url('images/nav_faqs_hover.jpg') no-repeat;
+}
+#sponsors a:hover
+{
+	background: url('images/nav_sponsors_hover.jpg') no-repeat;
+}

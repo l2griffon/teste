@@ -1,0 +1,6 @@
+body {
+cursor: url('blocks/cursor.cur'), auto;
+}
+a {
+cursor: url('blocks/hand.cur'), auto;
+}
